@@ -76,8 +76,8 @@ class Table extends Component {
               <tr>
                 <td>1</td>
                 <td>Fian Ilham Pratama</td>
-                <td>album keluarga</td>
-                <td>the flash</td>
+                <td>22</td>
+                <td>Mr. Black</td>
                 <td>
                   <img
                     src="https://i0.wp.com/teknokuys.com/wp-content/uploads/2020/12/1-4-300x300.jpg"
@@ -88,8 +88,8 @@ class Table extends Component {
               <tr>
                 <td>2</td>
                 <td>Alfaizuna Aulia</td>
-                <td>album keluarga</td>
-                <td>tony stark</td>
+                <td>25</td>
+                <td>Mr. White</td>
                 <td>
                   <img
                     src="https://i0.wp.com/teknokuys.com/wp-content/uploads/2020/12/1-11-300x300.jpg"
@@ -100,8 +100,8 @@ class Table extends Component {
               <tr>
                 <td>3</td>
                 <td>Jansen Stanlie</td>
-                <td>album keluarga</td>
-                <td>thanos</td>
+                <td>23</td>
+                <td>Mr. Orange</td>
                 <td>
                   <img
                     src="https://i0.wp.com/teknokuys.com/wp-content/uploads/2020/12/1-3-300x300.jpg"
@@ -112,8 +112,8 @@ class Table extends Component {
               <tr>
                 <td>4</td>
                 <td>Harry</td>
-                <td>album keluarga</td>
-                <td>spiderman</td>
+                <td>27</td>
+                <td>Mr. Impostor</td>
                 <td>
                   <img
                     src="https://i0.wp.com/teknokuys.com/wp-content/uploads/2020/12/1-9-300x300.jpg"
@@ -124,8 +124,8 @@ class Table extends Component {
               <tr>
                 <td>5</td>
                 <td>Eko Cahyanto</td>
-                <td>album keluarga</td>
-                <td>the flash</td>
+                <td>30</td>
+                <td>Mr. Yellow</td>
                 <td>
                   <img
                     src="https://i0.wp.com/teknokuys.com/wp-content/uploads/2020/12/1-2-300x300.jpg"
@@ -136,8 +136,8 @@ class Table extends Component {
               <tr>
                 <td>6</td>
                 <td>Muhammad Adzka Anshory</td>
-                <td>album keluarga</td>
-                <td>tony stark</td>
+                <td>29</td>
+                <td>Mr. Purple</td>
                 <td>
                   <img
                     src="https://i0.wp.com/teknokuys.com/wp-content/uploads/2020/12/1-5-300x300.jpg"
@@ -148,8 +148,8 @@ class Table extends Component {
               <tr>
                 <td>7</td>
                 <td>Firdho Pratama</td>
-                <td>album keluarga</td>
-                <td>thanos</td>
+                <td>24</td>
+                <td>Mr. Brown</td>
                 <td>
                   <img
                     src="https://i0.wp.com/teknokuys.com/wp-content/uploads/2020/12/1-12-300x300.jpg"
@@ -160,8 +160,8 @@ class Table extends Component {
               <tr>
                 <td>8</td>
                 <td>Sefrinaldi</td>
-                <td>album keluarga</td>
-                <td>spiderman</td>
+                <td>32</td>
+                <td>Mr. Puples</td>
                 <td>
                   <img
                     src="https://i0.wp.com/teknokuys.com/wp-content/uploads/2020/12/1-5-300x300.jpg"
@@ -172,8 +172,8 @@ class Table extends Component {
               <tr>
                 <td>9</td>
                 <td>Dimas Rosady</td>
-                <td>album keluarga</td>
-                <td>thanos</td>
+                <td>26</td>
+                <td>Mr. Blue</td>
                 <td>
                   <img
                     src="https://i0.wp.com/teknokuys.com/wp-content/uploads/2020/12/1-1-300x300.jpg"
@@ -184,8 +184,8 @@ class Table extends Component {
               <tr>
                 <td>10</td>
                 <td>Muhamad Nur Ridwan</td>
-                <td>album keluarga</td>
-                <td>spiderman</td>
+                <td>20</td>
+                <td>Mr. Yell_Die</td>
                 <td>
                   <img
                     src="https://i0.wp.com/teknokuys.com/wp-content/uploads/2020/12/1-13-300x300.jpg"
